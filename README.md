@@ -10,6 +10,12 @@ lper's blog
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.leixj.com/my-github-repos)
+* [基于Docker搭建MySQL主从复制](https://blog.leixj.com/articles/2019/11/06/1573007387549.html)
+* [使用docker创建启动一个带延迟队列插件的rabbitmq](https://blog.leixj.com/articles/2019/11/06/1573005943312.html)
+* [【转】SpringBoot 添加本地 jar 包 打包 war 部署外部 Tomcat](https://blog.leixj.com/articles/2019/11/06/1573004829598.html)
+* [【转】Spring Boot RabbitMQ 延迟消息实现完整版](https://blog.leixj.com/articles/2019/11/06/1573004589410.html)
+* [【转】SpringBoot:集成Shiro之Shiro标签(.jsp和.ftl)](https://blog.leixj.com/articles/2019/11/06/1573004026156.html)
 * [springboot 实现 rabbitMQ 生产者消费者模式](https://blog.leixj.com/articles/2019/10/31/1572524022464.html)
 * [spring boot 实现MyBatis-Plus 乐观锁插件](https://blog.leixj.com/articles/2019/10/31/1572523990716.html)
 * [Spring Boot异步线程池](https://blog.leixj.com/articles/2019/10/31/1572523958304.html)
