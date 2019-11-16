@@ -10,6 +10,8 @@ lper's blog
 
 ### 最新
 
+* [gitlab服务器迁移](https://blog.leixj.com/articles/2019/11/15/1573827899301.html)
+* [docker-compose搭建gitlab及配置runner](https://blog.leixj.com/articles/2019/11/15/1573827345905.html)
 * [我在 GitHub 上的开源项目](https://blog.leixj.com/my-github-repos)
 * [基于Docker搭建MySQL主从复制](https://blog.leixj.com/articles/2019/11/06/1573007387549.html)
 * [使用docker创建启动一个带延迟队列插件的rabbitmq](https://blog.leixj.com/articles/2019/11/06/1573005943312.html)
