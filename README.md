@@ -10,6 +10,7 @@ lper's blog
 
 ### 最新
 
+* [springmvc拦截器提前校验json数据，流丢失处理](https://blog.leixj.com/articles/2019/11/26/1574761181390.html)
 * [gitlab服务器迁移](https://blog.leixj.com/articles/2019/11/15/1573827899301.html)
 * [docker-compose搭建gitlab及配置runner](https://blog.leixj.com/articles/2019/11/15/1573827345905.html)
 * [我在 GitHub 上的开源项目](https://blog.leixj.com/my-github-repos)
